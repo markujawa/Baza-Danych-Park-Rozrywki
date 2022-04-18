@@ -1,6 +1,6 @@
 # ProjektBazaDanych
 
-<ins>Autorzy:</ins>
+<ins>Autorki:</ins>
 
 - [Justyna Budzyńska @budzynskaJ](https://github.com/budzynskaJ)
 - [Maria Kujawa @markujawa](https://github.com/markujawa)
