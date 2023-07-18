@@ -1,4 +1,4 @@
-# ProjektBazaDanych
+# Projekt bazy danych dla parku rozrywki
 
 
 <ins>Autorki:</ins>
